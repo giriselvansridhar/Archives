@@ -1,6 +1,6 @@
 ## Historical Gold Price Analysis (22k vs 24k) — Python
 
-### ATS keywords (copy/paste friendly)
+
 
 Python, Data Analysis, Data Analytics, Exploratory Data Analysis (EDA), Time Series Analysis, Data Cleaning, Data Wrangling, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Excel Analytics, Data Visualization, Trend Analysis, GroupBy Aggregation, Feature Engineering (Year/Month), Business Insights, Reporting
 
@@ -68,7 +68,7 @@ From the charts you can quickly answer questions like:
 
 Important note: these charts show **patterns in your dataset**. They do not predict future prices.
 
-### Resume-ready bullet points (ATS friendly)
+
 
 - Performed **time-series EDA** on historical gold prices (22k vs 24k) using **Python (pandas, NumPy)** and **Excel** inputs.
 - Built **data cleaning** steps to standardize numeric columns (removed thousand separators and converted to `float`) for reliable analytics.
