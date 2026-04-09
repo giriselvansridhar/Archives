@@ -16,18 +16,5 @@ This project includes
 
 
 
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/62b93b96-1264-4509-9db6-9ad2ca685e9b)
-
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/e1fd09be-9df5-4192-9779-300605f7a903)
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/b01956c0-ff54-4a11-9122-bc53e0d7bd0c)
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/3419272a-d9aa-4287-8940-01ac0d6b4513)
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/4b2c7ee8-09ca-4bed-99d2-27173ba93590)
-
-
-full link: https://github.com/giriselvansridhar/GoldRateAnalysis/tree/main
 
 
