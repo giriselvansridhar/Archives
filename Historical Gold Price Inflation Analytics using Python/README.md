@@ -1,5 +1,16 @@
 ## Historical Gold Price Analysis (22k vs 24k) — Python
 
+### ATS keywords (copy/paste friendly)
+
+Python, Data Analysis, Data Analytics, Exploratory Data Analysis (EDA), Time Series Analysis, Data Cleaning, Data Wrangling, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Excel Analytics, Data Visualization, Trend Analysis, GroupBy Aggregation, Feature Engineering (Year/Month), Business Insights, Reporting
+
+### Tech stack
+
+- **Language**: Python
+- **Tools**: Jupyter Notebook
+- **Libraries**: pandas, numpy, matplotlib, seaborn, openpyxl
+- **Data source**: Microsoft Excel (`.xlsx`)
+
 ### Project
 
 This project is a simple, beginner-friendly analysis of gold prices over time.
@@ -15,6 +26,13 @@ This project is a simple, beginner-friendly analysis of gold prices over time.
 - **`24k`**: 24k gold price
 
 The notebook also cleans the price columns (it removes commas and converts them into numbers).
+
+### Innovative angle (what makes it stand out)
+
+- **Interactive analysis**: you can enter a **year** or a **date range** to instantly generate focused trend charts.
+- **Side-by-side comparison**: 22k vs 24k is always shown together, making it easy to compare premium/price gap.
+- **Multi-level insights**: daily trend (line charts) + summarized insights (yearly/monthly averages).
+- **Reusable structure**: you can swap in a different dataset by keeping the same column names.
 
 ### Output
 
@@ -49,6 +67,14 @@ From the charts you can quickly answer questions like:
 - **In a specific year, which months were cheaper or more expensive on average?**
 
 Important note: these charts show **patterns in your dataset**. They do not predict future prices.
+
+### Resume-ready bullet points (ATS friendly)
+
+- Performed **time-series EDA** on historical gold prices (22k vs 24k) using **Python (pandas, NumPy)** and **Excel** inputs.
+- Built **data cleaning** steps to standardize numeric columns (removed thousand separators and converted to `float`) for reliable analytics.
+- Created **interactive visualizations** (Matplotlib/Seaborn) for full timeline, **year-based**, and **custom date-range** trend analysis.
+- Generated **yearly and monthly aggregations** using `groupby` to compare average prices and highlight long-term patterns.
+- Communicated insights through clear plots and layman-friendly interpretation to support quick decision-making.
 
 ### Learning (layman terms)
 
@@ -91,3 +117,10 @@ Some cells ask for:
 - If the notebook cannot find the file, make sure **`Gold rate.xlsx`** is in the same folder as the notebook.
 - If Excel reading fails, install `openpyxl` (it is included in the install command above).
 - If you see a pandas `SettingWithCopyWarning`, it’s just a warning; the notebook usually still runs.
+
+### Next improvements (optional, for innovation)
+
+- Add an **export step** to save charts as PNG and save summary tables to CSV for reporting.
+- Add a small **data validation** step (check missing dates, duplicates, negative prices).
+- Add a **price gap analysis** column: \( \text{24k} - \text{22k} \) and visualize how the gap changes over time.
+- Add a simple **inflation-adjusted view** if CPI data is available (real price vs nominal price).
